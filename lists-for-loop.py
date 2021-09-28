@@ -53,6 +53,11 @@ for num_of_month_element in my_Months_List:
     print(num_of_month_element)
 
 # To append the element from list
+print("Adding an element in the LIST: ")
 my_Months_List.append("April")
 print(my_Months_List)
 
+#Remove element from the list
+print("Removing an element in the LIST: ")
+my_Months_List.remove("Jan")
+print(my_Months_List)
