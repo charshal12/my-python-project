@@ -21,11 +21,11 @@ def validate_and_execute():
     # except:
     #     print("Your number is not a valid number, Dont ruin my program!")
 
-
-while user_input != "exit":
+user_input = ""
+while user_input != "exit": # while condition and '!=', until user types 'exit' the program will run
     user_input = input("Hey user, enter a number of day and it will be converted to hours!\n")  # -10(string data type)
     validate_and_execute()
 
-# When we have lot of conditions, instead of putting it into the if else or nested if else, we should use
+# When we have lot of conditions, insteadc of putting it into the if else or nested if else, we should use
 # try-except
 # You might forget to add in if else loop
