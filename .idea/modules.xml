@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/my-python-project.iml" filepath="$PROJECT_DIR$/.idea/my-python-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python-automation-for-excel-files/.idea/python-automation-for-excel-files.iml" filepath="$PROJECT_DIR$/../python-automation-for-excel-files/.idea/python-automation-for-excel-files.iml" />
     </modules>
   </component>
 </project>

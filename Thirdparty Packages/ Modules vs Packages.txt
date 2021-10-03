@@ -1,0 +1,32 @@
+Module
+Any Python file is a module
+eg: os.py, pickle.py
+
+Package
+collection of modules
+eg: logging(_init_.py, config.py, handler.py) => Everey package has this '_init_.py' which differentiate it from module
+
+Library
+Lot of Packages together make a Package
+
+Third Party Packages:
+There are many-more modules required for MC learning, Data Science, etc, doen not come with an installation, we need to download an use them as per requirement.
+Web application : django ==> pypi(The Python Package index)
+Data Science
+MC learning
+
+PyPI:
+ It is the repo(storage) for the third-party Python packages
+People can publish their packages to this repo, so it becomes available to everyone to use
+
+
+What is pip?
+=> package manager for python(install external modules or packages when needed)
+
+How do we install packages locally:
+pip install (packageName) in Pycharm Terminal
+eg: pip install Django
+
+Another way to install package(Pycharm Pro):
+PyCharm --> Python Packages --> type and search
+install
