@@ -30,3 +30,18 @@ eg: pip install Django
 Another way to install package(Pycharm Pro):
 PyCharm --> Python Packages --> type and search
 install
+
+Classes and Modules
+
+#user attributes (information user has)
+email = "nan@aa.com"
+name = "Nana Tipse"
+password = "pwd"
+current-job-title = "Devops engineer"
+
+# user behaviour(an action user can perform)
+def change_ password():
+def change_job_title():
+def add_new_skill():
+
+Class 's blueprint is called as Object
